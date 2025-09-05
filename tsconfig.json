@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/(main)/transporte.js", "app/(main)/perfil.js", "app/(main)/medicamentos.js", "app/(main)/agenda.js", "app/(main)/_layout.js", "app/(main)/index.js", "app/(auth)/cadastro.js", "app/(auth)/login.js", "app/_layout.js"  ]
 }
