@@ -79,7 +79,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     alignItems: 'center',
   },
-  logo: { width: 50, height: 50 },
+  logo: { width: 80, height: 80 },
   panicButton: {
     backgroundColor: '#e90404',
     flexDirection: 'row',
